@@ -1,9 +1,6 @@
 # Fresh Market
 Making a website for market using laravel.
 
-## Build With
-* Laravel
-
 ## Features
 * Dashboard
 * Login
