@@ -3,10 +3,6 @@ Making a website for market using laravel.
 
 ## Build With
 * Laravel
-* PHP
-* CSS
-* Javascript
-* Shell
 
 ## Features
 * Dashboard
